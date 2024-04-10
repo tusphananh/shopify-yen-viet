@@ -1,0 +1,44 @@
+<h1>
+    {{ section.settings.header_text }}
+</h1>
+<h3>
+    {{ section.settings.sub_text }}
+</h3>
+<marquee>
+    <p>Test</p>
+</marquee>
+
+{% schema %}
+{
+    "name": "Logo Marquee",
+    "settings": [
+        {
+            "type": "image_picker",
+            "id": "images",
+            "label": "Images",
+            "info": "Select the images for the logo marquee"
+        },
+        {
+            "type": "text",
+            "id": "header_text",
+            "label": "Header Text",
+            "default": "Logo Marquee"
+        },
+        {
+            "type": "text",
+            "id": "sub_text",
+            "label": "Sub Text",
+            "default": "Select the images for the logo marquee"
+        }
+    ],
+    "presets": [
+        {
+            "name": "Logo Marquee",
+            "settings": {
+                "header_text": "Logo Marquee",
+                "sub_text": "Select the images for the logo marquee"
+            }
+        }
+    ]
+}
+{% endschema %}

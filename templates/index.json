@@ -1,0 +1,289 @@
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Yến sào thượng hạng, tăng cường sức khỏe, mãi vẻ thanh xuân",
+            "heading_size": "h0"
+          }
+        },
+        "text_HbrEWc": {
+          "type": "text",
+          "settings": {
+            "text": "Chúng tôi luôn cố gắng mang đến sản phẩm chất lượng và sự hài lòng cho khách hàng",
+            "text_style": "body"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Mua ngay",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text_HbrEWc",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/dao-hai-yen_06738117-d7eb-4cfd-b3c7-794e6f6b1e19.png",
+        "image_overlay_opacity": 30,
+        "image_height": "medium",
+        "desktop_content_position": "middle-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "scheme-3",
+        "image_behavior": "zoom-in",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "verification_logo_XQgY6n": {
+      "type": "verification-logo",
+      "settings": {
+        "first_text": "Vận Chuyển",
+        "first_sub_text": "Miễn phí vận chuyển cho đơn trên $50",
+        "second_text": "Hoàn Tiền",
+        "second_sub_text": "Hoàn tiền 100% cho sản phẩm lỗi",
+        "third_text": "Thanh Toán",
+        "third_sub_text": "100% Thanh toán bảo mật",
+        "fourth_text": "Chất Lượng",
+        "fourth_sub_text": "Cam kết chất lượng sản phẩm"
+      }
+    },
+    "rich_text_djxzDJ": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_8H7pNV": {
+          "type": "heading",
+          "settings": {
+            "heading": "ƯU ĐÃI HÔM NAY",
+            "heading_size": "h0"
+          }
+        },
+        "text_X7Yg8L": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Giảm giá và tiết kiệm nhiều hơn khi mua combo<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_8H7pNV",
+        "text_X7Yg8L"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "ưu-dai-hom-nay",
+        "products_to_show": 3,
+        "columns_desktop": 3,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "link",
+        "enable_desktop_slider": true,
+        "color_scheme": "scheme-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": true,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "multirow_6mgHj8": {
+      "type": "multirow",
+      "blocks": {
+        "row_XNGckR": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/D7N_9248_4b8bd5e4-3ece-4d14-b66b-49287870221d.png",
+            "caption": "",
+            "heading": "TỔ YẾN TRẮNG",
+            "text": "<p><em>Ổ yến trắng cao cấp, thuần khiết từ thiên nhiên, bảo tồn trọn vẹn dưỡng chất, tăng cường sức khỏe và sắc đẹp. Hương vị thanh tao, phù hợp mọi lứa tuổi, món quà ý nghĩa cho người thân.<\/em><\/p>",
+            "button_label": "Mua ngay",
+            "button_link": "shopify:\/\/products\/elite-white-dried-birds-nest-250-gram-8-5-oz-success"
+          }
+        },
+        "row_MKgUFp": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC_1102.png",
+            "caption": "",
+            "heading": "NƯỚC YẾN",
+            "text": "<p>Nước yến sào chứa đựng tinh túy từ thiên nhiên, giàu dưỡng chất, giúp tăng cường sức đề kháng và phục hồi sức khỏe nhanh chóng. Với công thức đặc biệt, dễ dàng hấp thụ, nước yến là lựa chọn lý tưởng để duy trì vẻ đẹp và sự trẻ trung. Mỗi ngụm nước yến mang lại cảm giác tươi mới, là bí quyết chăm sóc sức khỏe từ bên trong.<\/p>",
+            "button_label": "Mua ngay",
+            "button_link": "shopify:\/\/products\/swallow-nest-drink-with-ginger-8-2-4-oz-x-6-bottles"
+          }
+        }
+      },
+      "block_order": [
+        "row_XNGckR",
+        "row_MKgUFp"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "scheme-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 72,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_RfEjjg": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_UN7BgG": {
+          "type": "heading",
+          "settings": {
+            "heading": "SẢN PHẨM BÁN CHẠY",
+            "heading_size": "h0"
+          }
+        },
+        "text_GWyqWY": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Những sản phẩm được khách hàng tin dùng nhất tại <em>Yenvietnest<\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_UN7BgG",
+        "text_GWyqWY"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 72,
+        "padding_bottom": 0
+      }
+    },
+    "featured_collection_emjyJJ": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "ban-chạy",
+        "products_to_show": 6,
+        "columns_desktop": 3,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": true,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "featured_blog_tAtipL": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "Blog posts",
+        "heading_size": "h1",
+        "blog": "sứ-mệnh-của-yenvietnest",
+        "post_limit": 3,
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_image": true,
+        "show_date": true,
+        "show_author": false,
+        "show_view_all": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "newsletter_RDR4Di": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_LKpfBn": {
+          "type": "heading",
+          "settings": {
+            "heading": "Đăng kí qua emails",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph_PH6XkA": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Trở thành những người đầu tiên nhận ưu đãi và chương trình hấp dẫn<\/p>"
+          }
+        },
+        "email_form_qPke47": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "heading_LKpfBn",
+        "paragraph_PH6XkA",
+        "email_form_qPke47"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "verification_logo_XQgY6n",
+    "rich_text_djxzDJ",
+    "featured_collection",
+    "multirow_6mgHj8",
+    "rich_text_RfEjjg",
+    "featured_collection_emjyJJ",
+    "featured_blog_tAtipL",
+    "newsletter_RDR4Di"
+  ]
+}

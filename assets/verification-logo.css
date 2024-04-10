@@ -1,0 +1,57 @@
+.verification-logo {
+  max-width: var(--page-width);
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 120px;
+  margin-bottom: 72px;
+  padding: 0 32px;
+}
+
+.verification-logo__container {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  justify-content: space-between;
+  border-top: 1px solid #e5e7eb;
+  border-bottom: 1px solid #e5e7eb;
+  padding: 32px 0;
+  gap: 18px;
+}
+
+.verification-logo__item,
+.verification-logo__text {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+
+  * {
+    margin: 0;
+  }
+
+  p {
+    font-size: 12px;
+  }
+}
+
+.verification-logo__item {
+  gap: 1rem;
+}
+
+.verification-logo__icon {
+  fill: #374151;
+  stroke: #374151;
+  width: 48px;
+  height: 48px;
+}
+
+.verification-logo__icon.verification-logo__fill-none {
+  fill: none;
+}
+
+@media screen and (min-width: 990px) {
+  .verification-logo__container {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
