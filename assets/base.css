@@ -1,4 +1,10 @@
-@import url("https://fonts.googleapis.com/css2?family=Smooch&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Allison&family=Gwendolyn:wght@400;700&family=Smooch&display=swap");
+
+.gwendolyn-bold {
+  font-family: "Gwendolyn", cursive !important;
+  font-weight: 700 !important;
+  font-style: normal !important;
+}
 
 :root {
   --alpha-button-background: 1;
