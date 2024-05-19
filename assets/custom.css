@@ -1,0 +1,47 @@
+.button,
+.button::after,
+.button::before {
+  border-radius: 32px;
+}
+
+.scrolled-past-header {
+  border-radius: 20px;
+  top: 10px !important;
+  margin-left: auto;
+  margin-right: auto;
+  width: calc(100% - 20px) !important;
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.1);
+  transition: top 0.5s, width 0.5s, border-radius 0.5s;
+
+  sticky-header {
+    transition: top 0.5s, width 0.5s, border-radius 0.5s;
+    border-radius: 20px;
+    overflow: hidden;
+  }
+}
+
+/* body {
+  background-image: url("./background.svg") !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  background-position: center !important;
+} */
+
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  border-radius: 10px;
+  background: rgba(0, 0, 0, 0.1);
+}
+::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  background: rgba(0, 0, 0, 0.2);
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(0, 0, 0, 0.25);
+}
+::-webkit-scrollbar-thumb:active {
+  background: rgba(0, 0, 0, 0.3);
+}
