@@ -119,50 +119,47 @@
         "padding_bottom": 36
       }
     },
-    "multirow_6mgHj8": {
-      "type": "multirow",
+    "products_overview_KNKpGY": {
+      "type": "products-overview",
       "blocks": {
-        "row_XNGckR": {
-          "type": "row",
+        "product_L9YEEL": {
+          "type": "product",
           "settings": {
-            "image": "shopify:\/\/shop_images\/D7N_9248_4b8bd5e4-3ece-4d14-b66b-49287870221d.png",
-            "caption": "",
-            "heading": "TỔ YẾN TRẮNG",
-            "text": "<p><em>Ổ yến trắng cao cấp, thuần khiết từ thiên nhiên, bảo tồn trọn vẹn dưỡng chất, tăng cường sức khỏe và sắc đẹp. Hương vị thanh tao, phù hợp mọi lứa tuổi, món quà ý nghĩa cho người thân.<\/em><\/p>",
-            "button_label": "Mua ngay",
-            "button_link": "shopify:\/\/products\/elite-white-dried-birds-nest-250-gram-8-5-oz-success"
+            "image": "shopify:\/\/shop_images\/DSC_1055-Recovered_cff8d48b-5087-4ccd-958e-247d791c745b.png",
+            "title": "Ổ Yến Trắng",
+            "description": "Hàm lượng protein trong tổ yến trắng rất cao, lên đến 45-55%. Protein trong tổ yến dễ hấp thu và có tác dụng bồi bổ cơ thể, tăng cường sức đề kháng.",
+            "button_link": "shopify:\/\/products\/white-dried-birds-nest-50-gram-1-76-oz",
+            "button_label": "Mua Ngay"
           }
         },
-        "row_MKgUFp": {
-          "type": "row",
+        "product_hc4JVH": {
+          "type": "product",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_1102.png",
-            "caption": "",
-            "heading": "NƯỚC YẾN",
-            "text": "<p>Nước yến sào chứa đựng tinh túy từ thiên nhiên, giàu dưỡng chất, giúp tăng cường sức đề kháng và phục hồi sức khỏe nhanh chóng. Với công thức đặc biệt, dễ dàng hấp thụ, nước yến là lựa chọn lý tưởng để duy trì vẻ đẹp và sự trẻ trung. Mỗi ngụm nước yến mang lại cảm giác tươi mới, là bí quyết chăm sóc sức khỏe từ bên trong.<\/p>",
-            "button_label": "Mua ngay",
-            "button_link": "shopify:\/\/products\/swallow-nest-drink-with-ginger-8-2-4-oz-x-6-bottles"
+            "image": "shopify:\/\/shop_images\/DSC_1068-Recovered.png",
+            "title": "Tổ Yến Đỏ",
+            "description": "Hàm lượng protein trong tổ yến đỏ lên đến 60-70%, cao hơn so với tổ yến trắng. Giàu các khoáng chất như canxi, sắt, kali, magie, phốt pho,... có tác dụng hỗ trợ hệ miễn dịch, xương khớp, hệ thần kinh và tim mạch.",
+            "button_link": "shopify:\/\/products\/elite-island-red-dried-birds-nest-100-gram-3-5-oz",
+            "button_label": "Mua Ngay"
+          }
+        },
+        "product_iJtHX9": {
+          "type": "product",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC_1092_01dfc861-5339-49f4-b738-efa364a92dae.png",
+            "title": "Tổ Yến Vàng",
+            "description": "Tổ yến vàng có màu vàng nhạt tự nhiên, do chim yến sử dụng các khoáng chất và dinh dưỡng từ môi trường sống đặc biệt để tạo tổ.Tổ yến vàng có hình dạng tương tự như tổ yến trắng và tổ yến đỏ, nhưng thường nhỏ hơn và có kết cấu chặt chẽ hơn.",
+            "button_link": "shopify:\/\/products\/golden-dried-birds-nest",
+            "button_label": "Mua Ngay"
           }
         }
       },
       "block_order": [
-        "row_XNGckR",
-        "row_MKgUFp"
+        "product_L9YEEL",
+        "product_hc4JVH",
+        "product_iJtHX9"
       ],
       "settings": {
-        "image_height": "medium",
-        "desktop_image_width": "medium",
-        "heading_size": "h1",
-        "text_style": "body",
-        "button_style": "secondary",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "image_layout": "alternate-left",
-        "section_color_scheme": "",
-        "row_color_scheme": "scheme-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 72,
-        "padding_bottom": 36
+        "button_label": "Button label"
       }
     },
     "rich_text_RfEjjg": {
@@ -280,7 +277,7 @@
     "verification_logo_XQgY6n",
     "rich_text_djxzDJ",
     "featured_collection",
-    "multirow_6mgHj8",
+    "products_overview_KNKpGY",
     "rich_text_RfEjjg",
     "featured_collection_emjyJJ",
     "featured_blog_tAtipL",
