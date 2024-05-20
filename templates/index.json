@@ -119,6 +119,36 @@
         "padding_bottom": 36
       }
     },
+    "rich_text_G97iGB": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_6GJQCt": {
+          "type": "heading",
+          "settings": {
+            "heading": "TỔ YẾN",
+            "heading_size": "h0"
+          }
+        },
+        "text_H4EJzk": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Bao gồm các loại tổ yến cao cấp như tổ yến trắng, đỏ và vàng<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_6GJQCt",
+        "text_H4EJzk"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "products_overview_KNKpGY": {
       "type": "products-overview",
       "blocks": {
@@ -277,6 +307,7 @@
     "verification_logo_XQgY6n",
     "rich_text_djxzDJ",
     "featured_collection",
+    "rich_text_G97iGB",
     "products_overview_KNKpGY",
     "rich_text_RfEjjg",
     "featured_collection_emjyJJ",
