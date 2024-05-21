@@ -15,6 +15,16 @@
   --primary-color: #dcc656;
 }
 
+.glassmorphism {
+  background: linear-gradient(
+    145deg,
+    rgba(255, 255, 255, 0.8),
+    rgba(0, 0, 0, 0.1)
+  );
+  backdrop-filter: blur(30px);
+  box-shadow: 0 25px 45px rgba(0, 0, 0, 0.1);
+}
+
 .product-card-wrapper .card,
 .contains-card--product {
   --border-radius: var(--product-card-corner-radius);
