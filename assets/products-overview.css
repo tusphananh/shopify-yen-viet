@@ -4,6 +4,7 @@
   grid-gap: 1rem;
   padding: 0 64px;
   color: white;
+  overflow: visible;
 
   /* Handle mobile view to 3 rows*/
   @media (max-width: 768px) {
@@ -22,7 +23,7 @@
   left: 0;
   right: 0;
   width: 100%;
-  height: 80%;
+  height: 60%;
   position: absolute;
   display: block !important;
   background: linear-gradient(
@@ -35,6 +36,8 @@
 
 .products-overview__column {
   position: relative;
+  border-radius: 10px;
+  overflow: hidden;
 }
 
 .products-overview--info {
@@ -59,22 +62,25 @@
   }
 
   .products-overview__link {
-    color: white;
+    color: black;
     font-size: 1.2rem;
     font-weight: bold;
     display: flex;
     align-items: center;
     gap: 8px;
     text-decoration: none;
-    opacity: 0.8;
     width: fit-content;
     padding: 8px 16px;
     /* From https://css.glass */
-    background: rgba(255, 255, 255, 0.2);
-    border-radius: 10px;
+    background: rgba(255, 255, 255, 1);
+    border-radius: 32px;
     box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
     backdrop-filter: blur(5px);
     -webkit-backdrop-filter: blur(5px);
+
+    &:hover {
+      opacity: 0.8;
+    }
   }
 
   .products-overview__description {
