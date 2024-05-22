@@ -2,7 +2,6 @@
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-gap: 1rem;
-  padding: 0 64px;
   color: white;
   overflow: visible;
 
@@ -10,7 +9,6 @@
   @media (max-width: 768px) {
     display: flex;
     flex-direction: column;
-    padding: 0 32px;
   }
 }
 
