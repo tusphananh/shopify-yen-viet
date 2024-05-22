@@ -192,6 +192,16 @@
         "button_label": "Button label"
       }
     },
+    "product_epic_hqUKGg": {
+      "type": "product-epic",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/DSC_1121_lans.png",
+        "title": "Nước yến",
+        "description": "Nước yến là một loại thức uống bổ dưỡng được chế biến từ tổ yến, chứa nhiều protein, axit amin và khoáng chất cần thiết cho cơ thể. Uống nước yến thường xuyên giúp tăng cường hệ miễn dịch, cải thiện sức khỏe tổng thể và hỗ trợ phục hồi sau ốm đau.",
+        "button_link": "shopify:\/\/products\/premium-swallow-nest-drink-2-4-oz-x-6-bottles",
+        "button_label": "Mua Ngay"
+      }
+    },
     "rich_text_RfEjjg": {
       "type": "rich-text",
       "blocks": {
@@ -309,6 +319,7 @@
     "featured_collection",
     "rich_text_G97iGB",
     "products_overview_KNKpGY",
+    "product_epic_hqUKGg",
     "rich_text_RfEjjg",
     "featured_collection_emjyJJ",
     "featured_blog_tAtipL",
