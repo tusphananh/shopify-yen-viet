@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin language editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "general": {
     "password_page": {
@@ -8,7 +17,7 @@
       "login_form_error": "Sai mật khẩu!",
       "login_form_submit": "Vào",
       "admin_link_html": "Bạn có phải chủ cửa hàng không? <a href=\"\/admin\" class=\"link underlined-link\">Đăng nhập tại đây<\/a>",
-      "powered_by_shopify_html": "Cửa hàng này sẽ do {{ shopify }} cung cấp"
+      "powered_by_shopify_html": ""
     },
     "social": {
       "alt_text": {
